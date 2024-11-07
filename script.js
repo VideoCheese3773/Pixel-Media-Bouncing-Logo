@@ -2,8 +2,8 @@ const dvdLogo = document.getElementById("dvdLogo");
 
 let posX = 100;
 let posY = 100;
-let speedX = 2;
-let speedY = 2;
+let speedX = 4;
+let speedY = 4;
 
 const colors = [
   "invert(28%) sepia(91%) saturate(1927%) hue-rotate(330deg) brightness(99%) contrast(104%)",
